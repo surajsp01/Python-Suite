@@ -1,2 +1,3 @@
 🔑 Password Strength CheckerA script that evaluates password complexity using Regular Expressions. It grades passwords based on length, casing, and special characters.Logic: Uses O(n) time complexity to scan strings for character diversity.Focus: Security best practices and re module mastery.
+<br>
 📧 Email SimulatorA mock backend system for managing digital communication using Object-Oriented Programming (OOP).Features: Create accounts, send messages, and manage an "Inbox" data structure.Focus: Class inheritance, list management, and state tracking.
